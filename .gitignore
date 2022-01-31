@@ -30,3 +30,7 @@
 *.exe
 *.out
 *.app
+
+# Unnsesary folders
+Debug/
+__vm/
