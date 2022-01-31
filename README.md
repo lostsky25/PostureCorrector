@@ -33,7 +33,7 @@ This device is supposed to be worn while sitting at a computer or desk, the devi
 
 ![main_board](https://user-images.githubusercontent.com/57411317/151819686-95333f95-5f06-433c-8dac-b4829655dc22.png)
 ![assambly_render_2](https://user-images.githubusercontent.com/57411317/151822067-ae28145c-6fc4-4fb8-a39e-9a56d30a36aa.png)
-![assambly_render_4](https://user-images.githubusercontent.com/57411317/151819790-fe8962b1-cdc0-4d5f-9b02-8c22d5eb7c43.png)
+![assambly_render_5](https://user-images.githubusercontent.com/57411317/151855550-b3b05a46-ac99-49fb-b035-933625fe5e37.png)
 ![assambly_render_6](https://user-images.githubusercontent.com/57411317/151819796-45282091-4b44-4d28-bc96-e930ad322393.png)
 
 ## PCB
