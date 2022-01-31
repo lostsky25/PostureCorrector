@@ -19,7 +19,9 @@ This device is designed to control the position in space, as most people forget 
 
 This device is supposed to be worn while sitting at a computer or desk, the deviation can be no more than 10°.
 
-![image](https://user-images.githubusercontent.com/57411317/151813742-cf35b4f3-0e02-4dcb-92c4-6b049aadff54.png)
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/57411317/151813742-cf35b4f3-0e02-4dcb-92c4-6b049aadff54.png">
+</p>
 
 ## Components
 
