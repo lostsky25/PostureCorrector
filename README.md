@@ -1,5 +1,6 @@
-# PostureCorrector V2.0
-
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/57411317/151821274-4164057d-ee9a-4b8c-9f87-2caa523602cf.png" alt="Logo Posture Corrector V2.0">
+</p>
 The goal is to study the problem associated with impaired posture. To develop a device that can help in the treatment and prevention of this deviation.
 Tasks - to study the physiology of the spinal region, to identify the causes of problems with posture. Develop a device based on the ATmega328 microcontroller that can process data from various modules.
 
@@ -32,6 +33,10 @@ This device is supposed to be worn while sitting at a computer or desk, the devi
 ![assambly_render_1](https://user-images.githubusercontent.com/57411317/151819768-aefa8879-cfbb-4bd1-aded-d3ac69146338.png)
 ![assambly_render_4](https://user-images.githubusercontent.com/57411317/151819790-fe8962b1-cdc0-4d5f-9b02-8c22d5eb7c43.png)
 ![assambly_render_6](https://user-images.githubusercontent.com/57411317/151819796-45282091-4b44-4d28-bc96-e930ad322393.png)
+
+## PCB
+
+![image](https://user-images.githubusercontent.com/57411317/151821207-72773bba-7e33-42ce-b143-a2524433a713.png)
 
 ## Instructions for use
 
