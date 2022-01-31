@@ -20,7 +20,18 @@ This device is supposed to be worn while sitting at a computer or desk, the devi
 
 ![image](https://user-images.githubusercontent.com/57411317/151813742-cf35b4f3-0e02-4dcb-92c4-6b049aadff54.png)
 
+## Components
 
+![boom_Page_1](https://user-images.githubusercontent.com/57411317/151819519-20cb87ad-2316-4ca7-8bb2-7b32472bcb46.png)
+![boom_Page_2](https://user-images.githubusercontent.com/57411317/151819529-049f4372-b08c-48c4-b06c-d4da548a5426.png)
+
+## 3D View
+
+
+![main_board](https://user-images.githubusercontent.com/57411317/151819686-95333f95-5f06-433c-8dac-b4829655dc22.png)
+![assambly_render_1](https://user-images.githubusercontent.com/57411317/151819768-aefa8879-cfbb-4bd1-aded-d3ac69146338.png)
+![assambly_render_4](https://user-images.githubusercontent.com/57411317/151819790-fe8962b1-cdc0-4d5f-9b02-8c22d5eb7c43.png)
+![assambly_render_6](https://user-images.githubusercontent.com/57411317/151819796-45282091-4b44-4d28-bc96-e930ad322393.png)
 
 ## Instructions for use
 
